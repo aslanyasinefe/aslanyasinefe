@@ -1,7 +1,7 @@
 <h1 align="center">Selam! Ben Yasin 👋</h1>
 
 <p align="center">
-  16 yaşındayım, yazılımla dünyayı değiştirme hedefiyle ilerliyorum.<br>
+  17 yaşındayım
  
 </p>
 
